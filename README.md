@@ -28,8 +28,14 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-  
-<div style="position: relative; padding-bottom: 215.9090909090909%; height: 0;"><iframe src="https://www.loom.com/embed/0913e3100a4541058bd36560b9adaeb1?sid=2a58ac12-0e30-42fc-82e7-6b6b0ba82017" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+ <div>
+    <a href="https://www.loom.com/share/2d410c8896df4827b0e5eff177b27554">
+    </a>
+    <a href="https://www.loom.com/share/2d410c8896df4827b0e5eff177b27554">
+      <img style="max-width:300px;" src="https://www.loom.com/embed/0913e3100a4541058bd36560b9adaeb1?sid=23b8fdec-ac55-488d-b1e2-eba115a7b2d4.gif">
+    </a>
+  </div>
   
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
